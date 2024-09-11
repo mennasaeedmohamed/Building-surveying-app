@@ -1,0 +1,43 @@
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Services.deps.json
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Services.dll
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Services.pdb
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Context.dll
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Dtos.dll
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Models.dll
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Repositories.dll
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Dtos.pdb
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Models.pdb
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Repositories.pdb
+D:\iti courses\edge pro\back-end\Building.Services\bin\Debug\net8.0\Building.Context.pdb
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\Building.Services.csproj.AssemblyReference.cache
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\Building.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\Building.Services.AssemblyInfoInputs.cache
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\Building.Services.AssemblyInfo.cs
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\Building.Services.csproj.CoreCompileInputs.cache
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\Building.8C6B4362.Up2Date
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\Building.Services.dll
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\refint\Building.Services.dll
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\Building.Services.pdb
+D:\iti courses\edge pro\back-end\Building.Services\obj\Debug\net8.0\ref\Building.Services.dll
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Services.deps.json
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Services.dll
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Services.pdb
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Context.dll
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Dtos.dll
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Models.dll
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Repositories.dll
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Dtos.pdb
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Models.pdb
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Repositories.pdb
+D:\iti courses\building surveying app\back-end\Building.Services\bin\Debug\net8.0\Building.Context.pdb
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.Services.csproj.AssemblyReference.cache
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.Services.AssemblyInfoInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.Services.AssemblyInfo.cs
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.Services.csproj.CoreCompileInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.Services.sourcelink.json
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.8C6B4362.Up2Date
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.Services.dll
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\refint\Building.Services.dll
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\Building.Services.pdb
+D:\iti courses\building surveying app\back-end\Building.Services\obj\Debug\net8.0\ref\Building.Services.dll

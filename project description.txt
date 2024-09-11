@@ -1,0 +1,4 @@
+This app is for buildings surveying, the worker will be able to choose the building he is going to survey on the map 
+and then a form will be opened with the coordinates of this point and he will be able to fill the rest of the info 
+for the building and when he submits this info in the database, the app will switch again to the map with live tracking 
+to the next nearest point............. the managaer will be able to track the status of all the buildings. 

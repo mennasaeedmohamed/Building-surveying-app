@@ -1,0 +1,35 @@
+D:\iti courses\edge pro\back-end\Building.Repositories\bin\Debug\net8.0\Building.Repositories.deps.json
+D:\iti courses\edge pro\back-end\Building.Repositories\bin\Debug\net8.0\Building.Repositories.dll
+D:\iti courses\edge pro\back-end\Building.Repositories\bin\Debug\net8.0\Building.Repositories.pdb
+D:\iti courses\edge pro\back-end\Building.Repositories\bin\Debug\net8.0\Building.Context.dll
+D:\iti courses\edge pro\back-end\Building.Repositories\bin\Debug\net8.0\Building.Models.dll
+D:\iti courses\edge pro\back-end\Building.Repositories\bin\Debug\net8.0\Building.Context.pdb
+D:\iti courses\edge pro\back-end\Building.Repositories\bin\Debug\net8.0\Building.Models.pdb
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.csproj.AssemblyReference.cache
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.AssemblyInfoInputs.cache
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.AssemblyInfo.cs
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.csproj.CoreCompileInputs.cache
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\Building.C7592A80.Up2Date
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.dll
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\refint\Building.Repositories.dll
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.pdb
+D:\iti courses\edge pro\back-end\Building.Repositories\obj\Debug\net8.0\ref\Building.Repositories.dll
+D:\iti courses\building surveying app\back-end\Building.Repositories\bin\Debug\net8.0\Building.Repositories.deps.json
+D:\iti courses\building surveying app\back-end\Building.Repositories\bin\Debug\net8.0\Building.Repositories.dll
+D:\iti courses\building surveying app\back-end\Building.Repositories\bin\Debug\net8.0\Building.Repositories.pdb
+D:\iti courses\building surveying app\back-end\Building.Repositories\bin\Debug\net8.0\Building.Context.dll
+D:\iti courses\building surveying app\back-end\Building.Repositories\bin\Debug\net8.0\Building.Models.dll
+D:\iti courses\building surveying app\back-end\Building.Repositories\bin\Debug\net8.0\Building.Context.pdb
+D:\iti courses\building surveying app\back-end\Building.Repositories\bin\Debug\net8.0\Building.Models.pdb
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.csproj.AssemblyReference.cache
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.AssemblyInfoInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.AssemblyInfo.cs
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.csproj.CoreCompileInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.sourcelink.json
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.C7592A80.Up2Date
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.dll
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\refint\Building.Repositories.dll
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\Building.Repositories.pdb
+D:\iti courses\building surveying app\back-end\Building.Repositories\obj\Debug\net8.0\ref\Building.Repositories.dll

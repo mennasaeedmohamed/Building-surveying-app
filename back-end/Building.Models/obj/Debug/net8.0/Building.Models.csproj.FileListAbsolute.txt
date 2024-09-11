@@ -1,0 +1,29 @@
+D:\iti courses\edge pro\back-end\Building.Models\bin\Debug\net8.0\Building.Models.deps.json
+D:\iti courses\edge pro\back-end\Building.Models\bin\Debug\net8.0\Building.Models.runtimeconfig.json
+D:\iti courses\edge pro\back-end\Building.Models\bin\Debug\net8.0\Building.Models.dll
+D:\iti courses\edge pro\back-end\Building.Models\bin\Debug\net8.0\Building.Models.pdb
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\Building.Models.csproj.AssemblyReference.cache
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\Building.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\Building.Models.AssemblyInfoInputs.cache
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\Building.Models.AssemblyInfo.cs
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\Building.Models.csproj.CoreCompileInputs.cache
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\Building.Models.dll
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\refint\Building.Models.dll
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\Building.Models.pdb
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\Building.Models.genruntimeconfig.cache
+D:\iti courses\edge pro\back-end\Building.Models\obj\Debug\net8.0\ref\Building.Models.dll
+D:\iti courses\building surveying app\back-end\Building.Models\bin\Debug\net8.0\Building.Models.deps.json
+D:\iti courses\building surveying app\back-end\Building.Models\bin\Debug\net8.0\Building.Models.runtimeconfig.json
+D:\iti courses\building surveying app\back-end\Building.Models\bin\Debug\net8.0\Building.Models.dll
+D:\iti courses\building surveying app\back-end\Building.Models\bin\Debug\net8.0\Building.Models.pdb
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.csproj.AssemblyReference.cache
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.AssemblyInfoInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.AssemblyInfo.cs
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.csproj.CoreCompileInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.sourcelink.json
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.dll
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\refint\Building.Models.dll
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.pdb
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\Building.Models.genruntimeconfig.cache
+D:\iti courses\building surveying app\back-end\Building.Models\obj\Debug\net8.0\ref\Building.Models.dll

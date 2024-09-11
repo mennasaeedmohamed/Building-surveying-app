@@ -1,0 +1,313 @@
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\appsettings.json
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.exe
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.deps.json
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.runtimeconfig.json
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.pdb
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\AutoMapper.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Azure.Core.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Text.Json.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Context.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Dtos.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Models.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Repositories.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Services.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Context.pdb
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Dtos.pdb
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Models.pdb
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Repositories.pdb
+D:\iti courses\edge pro\back-end\Building.Presentation\bin\Debug\net8.0\Building.Services.pdb
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.csproj.AssemblyReference.cache
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.AssemblyInfoInputs.cache
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.AssemblyInfo.cs
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.csproj.CoreCompileInputs.cache
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Building.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Building.Presentation.props
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Building.Presentation.props
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Building.Presentation.props
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\scopedcss\bundle\Building.Presentation.styles.css
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.C0247886.Up2Date
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\refint\Building.Presentation.dll
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.pdb
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.genruntimeconfig.cache
+D:\iti courses\edge pro\back-end\Building.Presentation\obj\Debug\net8.0\ref\Building.Presentation.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\appsettings.json
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.exe
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.deps.json
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.runtimeconfig.json
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Presentation.pdb
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\AutoMapper.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Azure.Core.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Text.Json.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Context.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Dtos.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Models.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Repositories.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Services.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Context.pdb
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Dtos.pdb
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Models.pdb
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Repositories.pdb
+D:\iti courses\building surveying app\back-end\Building.Presentation\bin\Debug\net8.0\Building.Services.pdb
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.csproj.AssemblyReference.cache
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.AssemblyInfoInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.AssemblyInfo.cs
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.csproj.CoreCompileInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.sourcelink.json
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Building.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Building.Presentation.props
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Building.Presentation.props
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Building.Presentation.props
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\scopedcss\bundle\Building.Presentation.styles.css
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.C0247886.Up2Date
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\refint\Building.Presentation.dll
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.pdb
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\Building.Presentation.genruntimeconfig.cache
+D:\iti courses\building surveying app\back-end\Building.Presentation\obj\Debug\net8.0\ref\Building.Presentation.dll

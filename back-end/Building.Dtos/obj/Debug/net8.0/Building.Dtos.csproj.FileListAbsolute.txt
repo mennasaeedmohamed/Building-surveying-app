@@ -1,0 +1,23 @@
+D:\iti courses\edge pro\back-end\Building.Dtos\bin\Debug\net8.0\Building.Dtos.deps.json
+D:\iti courses\edge pro\back-end\Building.Dtos\bin\Debug\net8.0\Building.Dtos.dll
+D:\iti courses\edge pro\back-end\Building.Dtos\bin\Debug\net8.0\Building.Dtos.pdb
+D:\iti courses\edge pro\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\edge pro\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.AssemblyInfoInputs.cache
+D:\iti courses\edge pro\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.AssemblyInfo.cs
+D:\iti courses\edge pro\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.csproj.CoreCompileInputs.cache
+D:\iti courses\edge pro\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.dll
+D:\iti courses\edge pro\back-end\Building.Dtos\obj\Debug\net8.0\refint\Building.Dtos.dll
+D:\iti courses\edge pro\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.pdb
+D:\iti courses\edge pro\back-end\Building.Dtos\obj\Debug\net8.0\ref\Building.Dtos.dll
+D:\iti courses\building surveying app\back-end\Building.Dtos\bin\Debug\net8.0\Building.Dtos.deps.json
+D:\iti courses\building surveying app\back-end\Building.Dtos\bin\Debug\net8.0\Building.Dtos.dll
+D:\iti courses\building surveying app\back-end\Building.Dtos\bin\Debug\net8.0\Building.Dtos.pdb
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.AssemblyInfoInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.AssemblyInfo.cs
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.csproj.CoreCompileInputs.cache
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.sourcelink.json
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.dll
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\refint\Building.Dtos.dll
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\Building.Dtos.pdb
+D:\iti courses\building surveying app\back-end\Building.Dtos\obj\Debug\net8.0\ref\Building.Dtos.dll
